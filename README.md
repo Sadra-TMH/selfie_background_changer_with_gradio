@@ -1,1 +1,2 @@
-# Real_Time_selfie_segmentation
+# Real time selfie background eraser using:
+```opencv, mediapipe```
