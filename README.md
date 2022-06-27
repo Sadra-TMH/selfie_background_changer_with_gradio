@@ -13,3 +13,4 @@ To use the app you need to first upload two pictures. One should be a selfie tha
 Then hit submit button and get the results!<br>
 
 # Example
+<img src="/example/selfie_example.jpg" alt="web app example" />
