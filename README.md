@@ -1,3 +1,3 @@
-# Real time selfie background eraser 
+# Selfie background eraser 
 
-```opencv, mediapipe```
+``opencv, mediapipe``
